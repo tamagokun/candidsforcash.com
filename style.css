@@ -2,7 +2,29 @@
 layout: style
 ---
 
+body {
+  font-size: 16px;
+}
+
+p {
+  font-size: 16px;
+}
+
 .portfolio-link {
   display: block;
   margin-bottom: 30px;
+}
+
+#gallery .section-heading,
+#contact .section-heading {
+  margin-bottom: 75px;
+}
+
+#about .section-subheading {
+  font-size: 22px;
+  line-height: 1.5;
+}
+
+section#contact {
+  background: #222;
 }
