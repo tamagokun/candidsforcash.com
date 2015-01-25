@@ -1,3 +1,8 @@
 ---
 layout: style
 ---
+
+.portfolio-link {
+  display: block;
+  margin-bottom: 30px;
+}
