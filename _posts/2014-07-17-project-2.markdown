@@ -1,7 +1,7 @@
 ---
 title: Escape
 layout: default
-img: 18.jpg
-thumbnail: 18-thumbnail.jpg
+img: 20.jpg
+thumbnail: 20-thumbnail.jpg
 
 ---

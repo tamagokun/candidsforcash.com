@@ -1,0 +1,7 @@
+---
+title: Dreams
+layout: default
+img: 123.jpg
+thumbnail: 123-thumbnail.jpg
+
+---

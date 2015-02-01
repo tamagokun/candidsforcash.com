@@ -1,7 +1,7 @@
 ---
 title: Round Icons
 layout: default
-img: 1.jpg
-thumbnail: 1-thumbnail.jpg
+img: 21.jpg
+thumbnail: 21-thumbnail.jpg
 
 ---
