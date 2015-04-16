@@ -1,7 +1,0 @@
----
-title: Treehouse
-layout: default
-img: 75.jpg
-thumbnail: 75-thumbnail.jpg
-
----

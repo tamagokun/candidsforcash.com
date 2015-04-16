@@ -1,7 +1,0 @@
----
-title: Golden
-layout: default
-img: 92.jpg
-thumbnail: 92-thumbnail.jpg
-
----

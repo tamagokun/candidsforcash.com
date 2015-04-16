@@ -1,7 +1,0 @@
----
-title: Dreams
-layout: default
-img: 110.jpg
-thumbnail: 110-thumbnail.jpg
-
----

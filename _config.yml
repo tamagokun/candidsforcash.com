@@ -1,4 +1,4 @@
-baseurl: http://candidsforcash.com/
+# baseurl: http://candidsforcash.com/
 
 # Site settings
 title: Candids for Cash
@@ -34,3 +34,6 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+fridge:
+  client_id: pk_745dc856667f45afcbcd

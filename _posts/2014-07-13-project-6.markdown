@@ -1,7 +1,0 @@
----
-title: Round Icons
-layout: default
-img: 21.jpg
-thumbnail: 21-thumbnail.jpg
-
----

@@ -1,7 +1,0 @@
----
-title: Escape
-layout: default
-img: 20.jpg
-thumbnail: 20-thumbnail.jpg
-
----

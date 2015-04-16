@@ -1,7 +1,0 @@
----
-title: Startup Framework
-layout: default
-img: 62.jpg
-thumbnail: 62-thumbnail.jpg
-
----
