@@ -1,0 +1,19 @@
+<!-- Portfolio Grid Section -->
+    <section id="gallery" class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Gallery</h2>
+                </div>
+            </div>
+            <div class="row gallery">
+            {% for photo in site.fridge.content.photo %}
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                  <a href="{{photo.image[0].name | fridge_asset}}" class="portfolio-link">
+                    <img src="{{photo.image[0].name | fridge_asset | resize:400,289}}" class="img-responsive" alt="">
+                  </a>
+                </div>
+            {% endfor %}
+            </div>
+        </div>
+    </section>

@@ -1,0 +1,24 @@
+{
+  "name": "candidsforcash.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tamagokun/candidsforcash.com.git"
+  },
+  "author": "Mike Kruk <mike@ripeworks.com> (http://ripeworks.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tamagokun/candidsforcash.com/issues"
+  },
+  "homepage": "https://github.com/tamagokun/candidsforcash.com",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-image-resize": "^0.6.0",
+    "gulp-rename": "^1.2.0"
+  }
+}
